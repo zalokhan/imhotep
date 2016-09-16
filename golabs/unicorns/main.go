@@ -3,7 +3,6 @@ The Unicorn Game. Create a program where players get to exchange unicorns over a
 unbuffered channel. The game ends once either of the parties gets "randomly" seek and
 tired of playing that game ;-).
 **/
-
 package main
 
 import (
